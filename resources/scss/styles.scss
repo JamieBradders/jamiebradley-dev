@@ -27,6 +27,27 @@ body {
 }
 
 /**
+ * Banner
+ */
+.banner {
+  background-color: $purple-dark;
+  padding: 0.25rem 2rem;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+
+  .banner__emoji {
+    display: inline-block;
+    margin-left: 0.5rem;
+  }
+
+  a {
+    text-decoration: underline;
+    color: white;
+  }
+}
+
+/**
  * Container element, used for containing content
  * within the specified parameters of the page.
  */
