@@ -24,7 +24,7 @@
     "groq": "^1.149.0",
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^5.2.5",
     "node-fetch": "^2.6.0",
     "node-sass": "^4.13.0",
